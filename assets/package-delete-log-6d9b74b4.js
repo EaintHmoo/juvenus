@@ -1,0 +1,1 @@
+import{j as e,W as a}from"./index-019ce5a6.js";import{P as t}from"./list-18ccd66d.js";function o(){return e.jsxs(e.Fragment,{children:[e.jsx(a,{children:e.jsx("title",{children:" Juvenus POS | Package "})}),e.jsx(t,{isDelete:!0,headLabel:"Package Delete Log"})]})}export{o as default};
